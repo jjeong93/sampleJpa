@@ -4,7 +4,7 @@ public class TwoProblem {
 
 	public static void main(String[] args) {
 		
-		ParentClass pc = new ParentClass();
+		OneChild pc = new OneChild();
 		
 		System.out.println(pc.acture("니콜라스"));
 		System.out.println(pc.acture("토르"));
